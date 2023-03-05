@@ -1,0 +1,11 @@
+#  The contact options.
+
+- type: github
+  icon: 'fab fa-github'
+
+- type: twitter
+  icon: 'fab fa-twitter'
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/andr%C3%A1s-dobreff-90012065/'
