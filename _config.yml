@@ -40,7 +40,7 @@ social:
 theme: jekyll-theme-chirpy
   
 # Chripy settings
-avatar: https://chirpy-img.netlify.app/commons/avatar.jpg
+avatar: assets/img/profile.jpg
 lang: en
 paginate: 10
 
