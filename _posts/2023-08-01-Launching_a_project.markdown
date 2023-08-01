@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launching a project - a proper README.md"
-date:   2023-03-06 07:17:31 +0000
+date:   2023-08-01 15:17:31 +0000
 categories: project repository repo readme
 ---
 
