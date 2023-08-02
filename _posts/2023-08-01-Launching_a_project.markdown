@@ -2,7 +2,6 @@
 layout: post
 title:  "Launching a project - a proper README.md"
 date:   2023-08-01 15:17:31 +0000
-categories: project repository repo readme
 ---
 
 When you start a project, it can be bugging that you don’t know what infrastructural and organizational elements are good to have for a proper project repository. If you’ve already seen a repository with missing setup guidelines or with no documentation at all, you may have thought, “I want to do it better with my own project”. In this blog post, I’m collecting my ideas and suggestions for a project scaffold. The main place where you can write down these elements is the README.md (and CONTRIBUTING.md). At the end of the article you’ll find samples, that you can use for your next project.
