@@ -21,4 +21,5 @@ During my professional career, I had the opportunity to get to know several tech
 - open the skillet.drawio file with draw.io
 - do the modifications
 - then export it as SVG and overwrite the skillset.drawio.svg file -->
-<img src="/assets/skillset.drawio.svg">
+![light mode only](/assets/skillset-light.drawio.svg){: .light }
+![dark mode only](/assets/skillset-dark.drawio.svg){: .dark }
