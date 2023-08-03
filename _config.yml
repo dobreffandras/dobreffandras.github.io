@@ -22,6 +22,8 @@
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ""
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+url: "https://dobreffandras.github.io"
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -36,8 +38,6 @@ description: >-                        # used by seo meta and the atom feed
   András Dobreff - Enthusiastic Developer with experience mostly in .NET area, 
   web development and Python. Passionate for delivering thorough, quality results in test-first manner
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
 
 
 github:
